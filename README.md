@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at WizeCamel<br>🌱 I’m currently learning Vim
+🔭 Working at WizeCamel on cloud resource automation with Terraform and Docker Compose<br>🌱 Trying to learn Vim and practice DSA
 
 
 ## 🌐 Socials:
